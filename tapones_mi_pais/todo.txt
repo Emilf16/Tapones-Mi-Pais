@@ -1,0 +1,5 @@
+1 . Agregar firebase al android , ios, web
+
+
+firebase.initializaApp(); solo funciona para mobile
+

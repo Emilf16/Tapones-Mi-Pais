@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168857494628",
+    "project_id": "taponesmipais",
+    "storage_bucket": "taponesmipais.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168857494628:android:405ab8f2c8dc6886b8ab71",
+        "android_client_info": {
+          "package_name": "com.example.tapones_mi_pais"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAttb7RP2BPvLQanLzu6egECXCb3ol0kkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
